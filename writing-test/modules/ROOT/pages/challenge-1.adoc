@@ -30,8 +30,6 @@ TIP: Keep the task concise. There's no need to over-complicate the instructions.
 
 The following article guides you through the step by step process of downloading and installing the AdBlock extension for Google Chrome.
 
-'''
-
 == Downloading AdBlock
 
 To download and install AdBlock:

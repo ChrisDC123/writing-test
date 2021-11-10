@@ -17,7 +17,7 @@ Your audience is someone technical, but new to link:https://en.wikipedia.org/wik
 
 = Version control guide
 
-This guide provides you, a contributor to a software development project, a conceptual overview of the following concepts:
+This guide provides you, a contributor to a software development project, with a conceptual overview of the following concepts:
 
 * Version control
 * Cloning
@@ -25,7 +25,7 @@ This guide provides you, a contributor to a software development project, a conc
 * Pull requests 
 * Merging
 
-Examples are used to help illustrate these concepts where helpful.
+Further reading and examples are used to help illustrate these concepts where relevant.
 
 == Version control
 
@@ -43,7 +43,7 @@ To contribute to a version, you must first *clone* the central project repositor
 
 To clone a central repository, you must have access permission from the primary maintainer of the central project repository, and have an account with the same source control tool.
 
-For further info on cloning a repository in GitHub, see: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository[cloning a repository^]
+For further info on cloning a repository in GitHub, see: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository[cloning a repository^].
 
 == Branching
 
@@ -59,13 +59,13 @@ Once you have finished working on your branch, you can then *push* your *commits
 
 A pull request is used to ask the primary maintainer of a repository/or assigned reviewer to review the work that you have done on your local branch before merging it into the central project repository. 
 
-The primary maintainer of the repository/assigned reviewer of the branch makes sure that there are no conflicts with the branch and the central repository. This review is necessary as other contributors may have branched off and merged into the repository in the time since you first cloned and branched, and important to make sure that there are no breaking changes that may occur when this merge takes place.
+The primary maintainer of the repository/assigned reviewer of the branch makes sure that there are no conflicts with the branch and the central repository. This review is necessary as other contributors may have branched off and merged into the repository in the time since you first cloned and branched. It is also important to make sure that there are no breaking changes that may occur when this merge takes place.
 
 == Merging
 
 After any conflicts have been resolved between the branch and central project repository, the original branch can be *merged* back into the central repository.
 
-After all branches have been merged successfully, the central repository can be versioned appropriately and deployed as a software project release, finishing a phase of the Product Software Development Life Cycle (SDLC).  
+After all branches have been merged successfully, the central repository can be versioned appropriately and deployed as a software project release, finishing a phase of the product Software Development Life Cycle (SDLC).  
 
 
 
