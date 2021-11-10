@@ -40,18 +40,19 @@ To download and install AdBlock:
 
 image::./images/chrome-web-store.png[]
 
-. Select the *Extensions* tab.
+2. Select the *Extensions* tab.
 
-image::./images/3xtensions-tab.png[]
+image::./images/extensions-tab.png[]
 
-. Search for and select *AdBlock* via the search box.
+3. Search for and select *AdBlock* via the search box.
 
 image::./images/select-adblock.png[]
 
-. Select *Add to Chrome*.
+4. Select *Add to Chrome*.
 
 image::./images/add-to-chrome.png[]
 
+
 The AdBlock extension has now been added to your Google Chrome browser. 
 
-Note: You can turn off the AdBlock extension at any time via the *Manage extensions* menu, accessible from the extensions image:./images/extensions-icon.png[] located on the header bar.
+*Note*: You can turn off the AdBlock extension at any time via the *Manage extensions* menu, accessible from the extensions image:./images/extensions-icon.png[] located on the header bar.
